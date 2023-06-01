@@ -1,1 +1,1 @@
-"# Simons-Game" 
+"# The Wizard++" 

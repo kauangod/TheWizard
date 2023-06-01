@@ -1,0 +1,15 @@
+Makefile
+
+*.o
+
+*.exe
+
+*.dll
+
+.vscode
+
+obj
+
+Jogo
+
+jogo
